@@ -7,10 +7,10 @@ textainer_data = {
     'ctl00_ScriptManager1_HiddenField' : '',
     '__EVENTTARGET': '',
     '__EVENTARGUMENT': '',
-    '__VIEWSTATEGUID': 'VIEWSTATE_f6bfebe8-c3bf-404b-abb6-bbf91108d91a',
+    '__VIEWSTATEGUID': '',
     '__VIEWSTATE': '',
-    'express_form_id': '4e12ba72-ef31-11e6-a6ab-ed972a0cc0a0',
-    'ccm_token': '1488494885:631f4b6ea5a2b474bb3dc06716dc922e',
+    'express_form_id': '',
+    'ccm_token': '',
     'ctl00$bodyContent$ucEqpIds$txtEqpId': '{}',
     'ctl00$bodyContent$btnSubmit': 'Preview',
 }
@@ -27,20 +27,17 @@ INTERPORTURL = 'https://idsng.iport.com/public/equipment_inquiry?utf8=%E2%9C%9' 
 CGIURL = 'http://cgi-dms.com/EirViewer/'
 
 cgi_cookies = {
-    'ASP.NET_SessionId': 'pcfr4vmcwvz4qw5pv40lz0gw',
-    '__AntiXsrfToken': '73f15e846e2e4b3ca07912d93b790d08',
+    'ASP.NET_SessionId': '',
+    '__AntiXsrfToken': '',
 }
 
 cgi_data = {
     '__EVENTTARGET': '',
     '__EVENTARGUMENT': '',
     'ctl00$MainContent$gEirTxt': '',
-    '__VIEWSTATE': '/wEPDwULLTIwMjQ4ODMwMTgPZBYCZg8PFgQeD19fQW50aVhzcmZUb2tlbgUgNzNmMTVlODQ2ZTJ'
-                   'lNGIzY2EwNzkxMmQ5M2I3OTBkMDgeEl9fQW50aVhzcmZVc2VyTmFtZWVkFgICAw9kFgICAw9kFg'
-                   'ICCw8WAh4HVmlzaWJsZWhkZC3QJoTpyV/vSNs+Iu8jIpQA/y8s47tVAZPoqDZHbVYv',
-    '__VIEWSTATEGENERATOR': 'AD54F8A7',
-    '__EVENTVALIDATION': '/wEdAATunlwZDY0ULcRx0Dc0S2Fx9xgYrrTS2Mlwx5bCpg40B2azbPX140yRmRB+maLXy'
-                         '8gdAGU435PV9h+FNj8PZgz7a1pMLIlc7bF1JFfn3VyJXhdVg8wfwyFNuCS4d1V8sos=',
+    '__VIEWSTATE': '',
+    '__VIEWSTATEGENERATOR': '',
+    '__EVENTVALIDATION': '',
     'ctl00$MainContent$gUnitTxt': '',
     'ctl00$MainContent$EirButton': 'Get EIR',
 }

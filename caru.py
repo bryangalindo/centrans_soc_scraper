@@ -32,6 +32,7 @@ class Caru:
             if 'Transit completed :' in row.text:
                 date_string = row.text.split(':')[1]
                 offhire_date = datetime.strptime(date_string, '%d-%m-%Y').strftime('%Y-%m-%d')
+                
                 return dict(container_number=container_number, offhire_date=offhire_date)
 
     def get_offhire_dates(self):

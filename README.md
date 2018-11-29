@@ -23,8 +23,11 @@ Deploy PgAmin4, and a window will open on your local host through your default b
 ![alt text](https://github.com/bryangalindo/centrans_soc_tracker/blob/master/readme_imgs/starting_postgres.png)
 
 Expand on Servers > PostgreSQL 10 > Databases
+
 Create a new database.
+
 Expand on newdatabase > Schemas > public
+
 Right-click on public and click on Restore, like so:
 
 ![alt text](https://github.com/bryangalindo/centrans_soc_tracker/blob/master/readme_imgs/restoring_db.png)
@@ -37,7 +40,7 @@ Once you have successfully loaded the .tar file, you should be rewarded with a g
 
 ### Prerequisites
 
-Required libraries can be extracted from the requirements.txt file
+Required python libraries can be extracted from the requirements.txt file
 
 ```
 pip freeze requirements.txt

@@ -28,7 +28,7 @@ CGIURL = 'http://cgi-dms.com/EirViewer/'
 
 cgi_cookies = {
     'ASP.NET_SessionId': 'pcfr4vmcwvz4qw5pv40lz0gw',
-    '__AntiXsrfToken': '73f15e846e2e4b3ca07912d93b790d08'
+    '__AntiXsrfToken': '73f15e846e2e4b3ca07912d93b790d08',
 }
 
 cgi_data = {
@@ -42,7 +42,7 @@ cgi_data = {
     '__EVENTVALIDATION': '/wEdAATunlwZDY0ULcRx0Dc0S2Fx9xgYrrTS2Mlwx5bCpg40B2azbPX140yRmRB+maLXy'
                          '8gdAGU435PV9h+FNj8PZgz7a1pMLIlc7bF1JFfn3VyJXhdVg8wfwyFNuCS4d1V8sos=',
     'ctl00$MainContent$gUnitTxt': '',
-    'ctl00$MainContent$EirButton': 'Get EIR'
+    'ctl00$MainContent$EirButton': 'Get EIR',
 }
 
 # EMS

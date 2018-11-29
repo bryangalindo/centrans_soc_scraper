@@ -20,20 +20,20 @@ Start by having [Postgres10](https://www.postgresql.org/download/) downloaded, a
 
 Deploy PgAmin4, and a window will open on your local host through your default browser:
 
-![alt text](https://drive.google.com/open?id=12woL_x_WRPglyY5YKwx65ueBA4ivWqjt)
+![alt text](https://github.com/bryangalindo/centrans_soc_tracker/blob/master/readme_imgs/starting_postgres.png)
 
 Expand on Servers > PostgreSQL 10 > Databases
 Create a new database.
 Expand on newdatabase > Schemas > public
 Right-click on public and click on Restore, like so:
 
-![alt text](https://drive.google.com/open?id=1HWKdRitCpN7SEFOxB-deL1O55FDkT_CB)
+![alt text](https://github.com/bryangalindo/centrans_soc_tracker/blob/master/readme_imgs/restoring_db.png)
 
 **Warning:** When restoring, leave role name empty, otherwise the restore job will fail with a "object of type 'bool' has no len()"
 
 Once you have successfully loaded the .tar file, you should be rewarded with a green popup in the bottom right corner and all the tables should show up in your database:
 
-![alt text](https://drive.google.com/open?id=1-b1OkzX_W1UYk_GtPrN8ml4JoTZ_TVWL)
+![alt text](https://github.com/bryangalindo/centrans_soc_tracker/blob/master/readme_imgs/success.png)
 
 ### Prerequisites
 

@@ -7,8 +7,9 @@ from caru import Caru
 from ues import UES
 
 
-Database.initialize(database='SOCtracking', user='postgres',
-                    password='1234', host='localhost')
+# When restoring db from .tar, change database value and password of your choosing 
+Database.initialize(database='', user='postgres',
+                    password='', host='localhost')
 
 
 def update_containers(func):

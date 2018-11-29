@@ -28,6 +28,7 @@ class Conglobal:
             date_results = html.findAll('td')[1].text.split(' ')
             offhire_date = datetime.strptime(date_results[0], '%m/%d/%Y').strftime('%Y-%m-%d')
             container_status = dict(container_number=container_number, offhire_date=offhire_date)
+            
             return container_status
 
     def get_offhire_dates(self):

@@ -48,7 +48,7 @@ pip freeze requirements.txt
 
 ## Built With
 
-* [Python3.7](https://docs.python.org/3/) - Language
+* [Python3.6](https://docs.python.org/3/) - Language
 * [PostgreSQL](https://www.postgresql.org/docs/10/index.html) - Database
 
 ## Authors
